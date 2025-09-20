@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Env files (store MongoDB URI, secrets, etc.)
+.env
+
+# Build / cache
+dist/
+build/
+.cache/
+
+# OS/System files
+.DS_Store
+Thumbs.db
